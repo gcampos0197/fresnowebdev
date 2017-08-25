@@ -1,4 +1,5 @@
-.hi {
-  font-family: broadway;
-  color: pink;
+h1 {
+  font-family: fantasy;
+  color: red;
+  text-shadow: 4px 3px yellow;
 }
